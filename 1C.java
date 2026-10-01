@@ -13,3 +13,11 @@ if (a.equals(b))
 System.out.println(a + " is a palindrome");
 else
 System.out.println(a + " is not a palindrome");
+Output
+Length : 17
+Upper case : SCSVMV UNIVERSITY
+First six : SCSVMV
+Position of U: 7
+Replace S->X: XCXVMV Univerxity
+Original : SCSVMV University
+madam is a palindrome
