@@ -20,3 +20,7 @@ s1.show();
 s2.show();
 }
 }
+Output
+ROLL NAME MARKS
+101 Aravind 78
+102 Divya 91
