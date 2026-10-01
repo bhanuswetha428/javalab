@@ -12,3 +12,7 @@ public class Main {
         sc.close();
     }
 }
+
+OUTPUT:
+Enter the number of students: 5
+Number of students: 5
