@@ -15,12 +15,4 @@ System.out.println("Average = " + avg);
 }
 }
 
-Output
-78 Pass
-91 Pass
-45 Fail
-66 PASS
 
-88 Pass
-Total = 368
-Average = 73.6
